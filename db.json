@@ -1,0 +1,275 @@
+[
+  {
+    "id": "1",
+    "grupo": "Grupo A",
+    "selecao": "Brasil",
+    "bandeira": "https://flagcdn.com/w320/br.png",
+    "titulos": 5
+  },
+  {
+    "id": "2",
+    "grupo": "Grupo A",
+    "selecao": "França",
+    "bandeira": "https://flagcdn.com/w320/fr.png",
+    "titulos": 2
+  },
+  {
+    "id": "3",
+    "grupo": "Grupo B",
+    "selecao": "Argentina",
+    "bandeira": "https://flagcdn.com/w320/ar.png",
+    "titulos": 3
+  },
+  {
+    "id": "4",
+    "grupo": "Grupo B",
+    "selecao": "Japão",
+    "bandeira": "https://flagcdn.com/w320/jp.png",
+    "titulos": 0
+  },
+  {
+    "id": "5",
+    "grupo": "Grupo A",
+    "selecao": "Senegal",
+    "bandeira": "https://flagcdn.com/w320/sn.png",
+    "titulos": 0
+  },
+  {
+    "id": "6",
+    "grupo": "Grupo A",
+    "selecao": "Austrália",
+    "bandeira": "https://flagcdn.com/w320/au.png",
+    "titulos": 0
+  },
+  {
+    "id": "7",
+    "grupo": "Grupo B",
+    "selecao": "Holanda",
+    "bandeira": "https://flagcdn.com/w320/nl.png",
+    "titulos": 0
+  },
+  {
+    "id": "8",
+    "grupo": "Grupo B",
+    "selecao": "Camarões",
+    "bandeira": "https://flagcdn.com/w320/cm.png",
+    "titulos": 0
+  },
+  {
+    "id": "9",
+    "grupo": "Grupo C",
+    "selecao": "Alemanha",
+    "bandeira": "https://flagcdn.com/w320/de.png",
+    "titulos": 4
+  },
+  {
+    "id": "10",
+    "grupo": "Grupo C",
+    "selecao": "Espanha",
+    "bandeira": "https://flagcdn.com/w320/es.png",
+    "titulos": 1
+  },
+  {
+    "id": "11",
+    "grupo": "Grupo C",
+    "selecao": "Costa Rica",
+    "bandeira": "https://flagcdn.com/w320/cr.png",
+    "titulos": 0
+  },
+  {
+    "id": "12",
+    "grupo": "Grupo C",
+    "selecao": "Arábia Saudita",
+    "bandeira": "https://flagcdn.com/w320/sa.png",
+    "titulos": 0
+  },
+  {
+    "id": "13",
+    "grupo": "Grupo D",
+    "selecao": "Itália",
+    "bandeira": "https://flagcdn.com/w320/it.png",
+    "titulos": 4
+  },
+  {
+    "id": "14",
+    "grupo": "Grupo D",
+    "selecao": "Uruguai",
+    "bandeira": "https://flagcdn.com/w320/uy.png",
+    "titulos": 2
+  },
+  {
+    "id": "15",
+    "grupo": "Grupo D",
+    "selecao": "Coreia do Sul",
+    "bandeira": "https://flagcdn.com/w320/kr.png",
+    "titulos": 0
+  },
+  {
+    "id": "16",
+    "grupo": "Grupo D",
+    "selecao": "Canadá",
+    "bandeira": "https://flagcdn.com/w320/ca.png",
+    "titulos": 0
+  },
+  {
+    "id": "17",
+    "grupo": "Grupo E",
+    "selecao": "Portugal",
+    "bandeira": "https://flagcdn.com/w320/pt.png",
+    "titulos": 0
+  },
+  {
+    "id": "18",
+    "grupo": "Grupo E",
+    "selecao": "Estados Unidos",
+    "bandeira": "https://flagcdn.com/w320/us.png",
+    "titulos": 0
+  },
+  {
+    "id": "19",
+    "grupo": "Grupo E",
+    "selecao": "Marrocos",
+    "bandeira": "https://flagcdn.com/w320/ma.png",
+    "titulos": 0
+  },
+  {
+    "id": "20",
+    "grupo": "Grupo E",
+    "selecao": "Croácia",
+    "bandeira": "https://flagcdn.com/w320/hr.png",
+    "titulos": 0
+  },
+  {
+    "id": "21",
+    "grupo": "Grupo F",
+    "selecao": "Bélgica",
+    "bandeira": "https://flagcdn.com/w320/be.png",
+    "titulos": 0
+  },
+  {
+    "id": "22",
+    "grupo": "Grupo F",
+    "selecao": "México",
+    "bandeira": "https://flagcdn.com/w320/mx.png",
+    "titulos": 0
+  },
+  {
+    "id": "23",
+    "grupo": "Grupo F",
+    "selecao": "Sérvia",
+    "bandeira": "https://flagcdn.com/w320/rs.png",
+    "titulos": 0
+  },
+  {
+    "id": "24",
+    "grupo": "Grupo F",
+    "selecao": "Gana",
+    "bandeira": "https://flagcdn.com/w320/gh.png",
+    "titulos": 0
+  },
+  {
+    "id": "25",
+    "grupo": "Grupo G",
+    "selecao": "Dinamarca",
+    "bandeira": "https://flagcdn.com/w320/dk.png",
+    "titulos": 0
+  },
+  {
+    "id": "26",
+    "grupo": "Grupo G",
+    "selecao": "Tunísia",
+    "bandeira": "https://flagcdn.com/w320/tn.png",
+    "titulos": 0
+  },
+  {
+    "id": "27",
+    "grupo": "Grupo G",
+    "selecao": "Colômbia",
+    "bandeira": "https://flagcdn.com/w320/co.png",
+    "titulos": 0
+  },
+  {
+    "id": "28",
+    "grupo": "Grupo G",
+    "selecao": "Suíça",
+    "bandeira": "https://flagcdn.com/w320/ch.png",
+    "titulos": 0
+  },
+  {
+    "id": "29",
+    "grupo": "Grupo H",
+    "selecao": "Polônia",
+    "bandeira": "https://flagcdn.com/w320/pl.png",
+    "titulos": 0
+  },
+  {
+    "id": "30",
+    "grupo": "Grupo H",
+    "selecao": "Suécia",
+    "bandeira": "https://flagcdn.com/w320/se.png",
+    "titulos": 0
+  },
+  {
+    "id": "31",
+    "grupo": "Grupo H",
+    "selecao": "Chile",
+    "bandeira": "https://flagcdn.com/w320/cl.png",
+    "titulos": 0
+  },
+  {
+    "id": "32",
+    "grupo": "Grupo H",
+    "selecao": "Equador",
+    "bandeira": "https://flagcdn.com/w320/ec.png",
+    "titulos": 0
+  },
+  {
+    "id": "33",
+    "grupo": "Grupo I",
+    "selecao": "Nigéria",
+    "bandeira": "https://flagcdn.com/w320/ng.png",
+    "titulos": 0
+  },
+  {
+    "id": "34",
+    "grupo": "Grupo I",
+    "selecao": "Argélia",
+    "bandeira": "https://flagcdn.com/w320/dz.png",
+    "titulos": 0
+  },
+  {
+    "id": "35",
+    "grupo": "Grupo I",
+    "selecao": "Egito",
+    "bandeira": "https://flagcdn.com/w320/eg.png",
+    "titulos": 0
+  },
+  {
+    "id": "36",
+    "grupo": "Grupo I",
+    "selecao": "Irã",
+    "bandeira": "https://flagcdn.com/w320/ir.png",
+    "titulos": 0
+  },
+  {
+    "id": "37",
+    "grupo": "Grupo J",
+    "selecao": "Peru",
+    "bandeira": "https://flagcdn.com/w320/pe.png",
+    "titulos": 0
+  },
+  {
+    "id": "38",
+    "grupo": "Grupo J",
+    "selecao": "Ucrânia",
+    "bandeira": "https://flagcdn.com/w320/ua.png",
+    "titulos": 0
+  },
+  {
+    "id": "39",
+    "grupo": "Grupo J",
+    "selecao": "Turquia",
+    "bandeira": "https://flagcdn.com/w320/tr.png",
+    "titulos": 0
+  }
+]
